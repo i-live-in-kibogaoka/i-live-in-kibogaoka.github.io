@@ -8,7 +8,22 @@
   </url>
   
   <url>
+    <loc>https://i-live-in-kibogaoka.github.io/tags/</loc>
+    <lastmod>2020-04-30T23:23:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://i-live-in-kibogaoka.github.io/tags/%E3%83%86%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88/</loc>
+    <lastmod>2020-04-30T23:23:20+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://i-live-in-kibogaoka.github.io/post/takeout-jp/</loc>
+    <lastmod>2020-04-30T23:23:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://i-live-in-kibogaoka.github.io/tags/%E5%B8%8C%E6%9C%9B%E3%83%B6%E4%B8%98/</loc>
     <lastmod>2020-04-30T23:23:20+09:00</lastmod>
   </url>
   
@@ -54,14 +69,6 @@
   
   <url>
     <loc>https://i-live-in-kibogaoka.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://i-live-in-kibogaoka.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://i-live-in-kibogaoka.github.io/tags/</loc>
   </url>
   
 </urlset>
