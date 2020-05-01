@@ -1,0 +1,13 @@
+/*mine*/
+.myimg-container{
+    text-align:left;
+
+}
+
+.myimg{
+    /*float:left;*/
+    display:inline-block;
+    padding:0px 0px;    
+    /*padding:10px;*/
+    /*height:10px;*/
+}
