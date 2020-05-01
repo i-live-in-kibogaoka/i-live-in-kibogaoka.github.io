@@ -3,13 +3,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Example Site - Emoji Support </title>
+    <title>希望ヶ丘のブログ - Emoji Support </title>
 
     
     
     <meta content="emoji" name="keywords">
     
-    <meta content="Example Site - Guide to emoji usage in Hugo" name="description">
+    <meta content="希望ヶ丘のブログ - Guide to emoji usage in Hugo" name="description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     
@@ -40,9 +40,11 @@
     <header class="layui-header layui-bg-cyan">
 
     
+        <a href=""><img src="/self/img/ki.jpg" class="layui-nav-img" style="margin-left:10px;margin-top:-10px"></a>
+    
     
     <a class="nav-self-logo" href="/">
-        Example Site
+        希望ヶ丘のブログ
     </a>
 
     <ul class="layui-nav layui-layout-right layui-bg-cyan" lay-filter="">
@@ -51,10 +53,6 @@
         <li class="layui-nav-item" id="nav_big"><a href="/post/">Posts</a></li>
         
 
-        
-            
-                <li class="layui-nav-item" id="nav_big"><a href="/about/">About</a></li>
-            
         
 
         
@@ -68,10 +66,6 @@
                 <dd><a href="/post/">Posts</a></dd>
                 
 
-                
-                    
-                        <dd><a href="/about/">About</a></dd>
-                    
                 
             </dl>
         </li>
@@ -110,7 +104,8 @@ layui.use('element', function(){
                     <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
 <p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<!-- raw HTML omitted -->
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
 <p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
 <hr>
 <p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
@@ -140,26 +135,6 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 
 
         </div><footer>
-    
-
-    <div class="layui-container">
-        <div class="layui-row">
-            <div class="layui-col-md4 layui-col-sm6 layui-col-xs6">
-                <h3> Related Sites </h3>
-            </div>
-        </div>
-        <div class="layui-row">
-            
-            <div class="layui-col-md4 layui-col-sm6 layui-col-xs12">
-                <a href="/"><p class="footer-url">home</p></a>
-            </div>
-            
-            <div class="layui-col-md4 layui-col-sm6 layui-col-xs12">
-                <a href="/about/"><p class="footer-url">About</p></a>
-            </div>
-            
-        </div>
-    </div>
     
     
     <div class="layui-container">
