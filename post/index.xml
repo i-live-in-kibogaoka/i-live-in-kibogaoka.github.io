@@ -6,55 +6,22 @@
     <description>Recent content in Posts on 希望ヶ丘のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 23:23:20 +0900</lastBuildDate>
     
 	<atom:link href="https://i-live-in-kibogaoka.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://i-live-in-kibogaoka.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>テイクアウトできるお店 希望ヶ丘</title>
+      <link>https://i-live-in-kibogaoka.github.io/post/takeout-jp/</link>
+      <pubDate>Thu, 30 Apr 2020 23:23:20 +0900</pubDate>
       
-      <guid>https://i-live-in-kibogaoka.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://i-live-in-kibogaoka.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://i-live-in-kibogaoka.github.io/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://i-live-in-kibogaoka.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://i-live-in-kibogaoka.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://i-live-in-kibogaoka.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://i-live-in-kibogaoka.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://i-live-in-kibogaoka.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://i-live-in-kibogaoka.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://i-live-in-kibogaoka.github.io/post/takeout-jp/</guid>
+      <description>うまいもの処 うちやま（和食）  営業時間：昼（木・日以外）、夜 注文方法：電話、約20分で提供 容器　：おかもち/お皿（後日返却） 支払方法：現金 電話番号：045-391-8238  名店の味を是非おうちで。珍しいお魚なども食べられるのは嬉しいですね。
+     串かつ大臣  営業時間：夜のみ 注文方法：電話、約20分で提供 容器　：プラ容器/お皿（後日返却） 支払方法：現金、クレジットカード  電話番号：045-461-9482  串かつは勿論のこと、サイドメニューの旨さったら！お酒が進みます。なんとつい最近免許を取得され、お酒のテイクアウトまで可能になったとのこと。興奮。
+   黒船屋（焼肉・焼鳥）  営業時間：昼・夜 注文方法：電話、約20分で提供 容器　：プラ容器 支払方法：現金/PayPay 電話番号：045-364-7633  希望ヶ丘の人気店による絶品焼肉がおうちで食べられます。バリエーション豊富なお弁当が嬉しい。
+   もつやき処 円満  営業時間：夜 注文方法：電話、約20分で提供 容器　：プラ容器 支払方法：現金 電話番号：045-365-2240  ここのモツは本当に、舌が喜ぶのがわかります。我が家はCセットを食べました。夫婦2人で。
+   -- ジンギスカン食堂 FAM SOULFULL KITCHEN  営業時間：昼、夜 注文方法：電話、約20分で提供 容器　：プラ容器 支払方法：現金 電話番号：045-350-2767  とにかくお肉が美味しい！写真にはありませんがハンバーグも絶品です。ぎっしりじゅわり。</description>
     </item>
     
   </channel>
